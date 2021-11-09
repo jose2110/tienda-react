@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.96a12b29.chunk.css",
+    "main.js": "/static/js/main.2bbf1b5d.chunk.js",
+    "main.js.map": "/static/js/main.2bbf1b5d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a89b00f1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a89b00f1.js.map",
+    "static/js/2.26f25193.chunk.js": "/static/js/2.26f25193.chunk.js",
+    "static/js/2.26f25193.chunk.js.map": "/static/js/2.26f25193.chunk.js.map",
+    "static/js/3.72c15aff.chunk.js": "/static/js/3.72c15aff.chunk.js",
+    "static/js/3.72c15aff.chunk.js.map": "/static/js/3.72c15aff.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.96a12b29.chunk.css.map": "/static/css/main.96a12b29.chunk.css.map",
+    "static/js/2.26f25193.chunk.js.LICENSE.txt": "/static/js/2.26f25193.chunk.js.LICENSE.txt",
+    "static/media/logo.e9cefe51.jpg": "/static/media/logo.e9cefe51.jpg",
+    "static/media/notebook1.jpg": "/static/media/notebook1.0be5eaba.jpg",
+    "static/media/notebook3.jpg": "/static/media/notebook3.500c75d1.jpg",
+    "static/media/notebook4.jpg": "/static/media/notebook4.b0e49142.jpg",
+    "static/media/notebook5.jpg": "/static/media/notebook5.5c8ee893.jpg",
+    "static/media/notebook6.jpg": "/static/media/notebook6.2f42fb06.jpg",
+    "static/media/notebook8.jpg": "/static/media/notebook8.7bf70de3.jpg",
+    "static/media/notebook9.jpg": "/static/media/notebook9.ca4f3695.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a89b00f1.js",
+    "static/js/2.26f25193.chunk.js",
+    "static/css/main.96a12b29.chunk.css",
+    "static/js/main.2bbf1b5d.chunk.js"
+  ]
+}
